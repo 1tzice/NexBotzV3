@@ -25,11 +25,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/saep.02'
-global.syt = 'https://youtube.com/channel/UC28pUSJ1MyZhqGL_lamNQRw'
+global.sig = 'https://instagram.com/yzwony'
+global.syt = 'https://youtube.com/channel/UCOOjswLxXk01SQIvSAUXrmA'
 global.sgh = 'https://github.com/SaepEp'
 global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
-global.swa = 'wa.me/628812743180'
+global.swa = 'wa.me/62887829418915'
 global.swb = 'https://discord.gg/4HvezMAw'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -42,11 +42,11 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.nomorown1 = '628812743180'
-global.namebot = 'NexBotz'
-global.nameown = 'NexEp'
+global.nomorbot = '62895804749060'
+global.nomorown = '62887828418915'
+global.nomorown1 = '62887829418915'
+global.namebot = 'hxicon'
+global.nameown = 'yzwony'
 
 
 /*============== STAFF ==============*/
@@ -54,7 +54,7 @@ global.owner = [
   ['6288221354110'],
   ['6283891677178'],
   ['18126338970'],
-  ['628812743180', 'NexEp', true]
+  ['6287829418915', 'yzwony', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -104,16 +104,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'NexEp'
-global.wm3 = 'NexBotz | By NexEp'
+global.wm = 'By hxicon' //Main Watermark
+global.wm2 = 'hxicon'
+global.wm3 = 'hxicon | By yzwony'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'NexEp' 
-global.packname = 'NexEp'
+global.titlebot = `hxicon | ʙʏ ${global.nameown}`
+global.author = 'yzwony' 
+global.packname = 'yzwony'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Juli 11 2022'
+global.ultahowner = 'desember 04 2007'
 
 
 /*============== LOGO ==============*/
